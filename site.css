@@ -19,6 +19,7 @@ button {
   grid-template-rows: 1fr 1fr 1fr;
   background-color: black;
   margin: 32px 0;
+
 }
 
 .actions {
@@ -28,6 +29,7 @@ button {
 .announcement {
   font-size: 3em;
   text-align: center;
+
 }
 
 .col-1 {
