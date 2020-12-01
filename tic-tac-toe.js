@@ -80,7 +80,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
       square.innerHTML = "";
     });
     gameStatus = "";
-    statusHeader.innerHTML = "";
+    statusHeader.innerHTML = "Let's Play!";
   });
 
   giveUp.addEventListener("click", () => {
